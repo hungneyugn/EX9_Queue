@@ -1,5 +1,5 @@
 /*
-*File: queue.h
+*File: queueArray.h
 *Author: Nguyen Phi Hung
 *Date: 08/04/2023
 *Description: Header for Queue using Array

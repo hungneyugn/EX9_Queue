@@ -1,5 +1,5 @@
 /*
-*File: queue.h
+*File: queueArray.c
 *Author: Nguyen Phi Hung
 *Date: 08/04/2023
 *Description: define functions which were declarated in header file
